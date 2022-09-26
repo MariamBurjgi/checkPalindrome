@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Paindrome App</string>
+    <string name="check_palindrome">Check Palindrome</string>
+    <string name="type_your_word_here">Type your word here...</string>
+</resources>
